@@ -2,6 +2,8 @@
 README
 ======
 
+Note: This is old.
+
 Small playground application around the topic of handling todo items on a
 shared todo list.
 
